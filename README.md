@@ -1,2 +1,9 @@
-# rainy-corner
-Interactive rainy-night Japanese convenience store miniature. Drag to orbit and scroll to zoom.
+# 雨夜便利店 · Komorebi Mart
+
+一个没有人物、没有界面控件的日式雨夜便利店三维微缩场景。
+
+- 鼠标拖拽旋转，滚轮缩放；触屏单指旋转、双指缩放。
+- 包含持续降雨、屋檐滴水、积水涟漪、自动门和灯光动画。
+- 纯静态网页，使用 Three.js 0.160.1（MIT），通过 jsDelivr 加载。首次打开需要联网。
+
+GitHub Pages：选择 main 分支、根目录发布即可。
